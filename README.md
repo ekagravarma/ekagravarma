@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey! I'm Ekagra Varma.</h1>
+<h1 align="center">Hey I'm Ekagra Varma.</h1>
 
 
 - 🌱 I'm currently working as **Member of Technical Staff in QA-Automation Team at Rakuten Symphony**. ☕🔧
